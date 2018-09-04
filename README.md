@@ -1,4 +1,4 @@
-# Angular 6 with socket.io Example
+# Angular 6 with socket.io Example Server-Side
 
 This is the server side from an example, which combines Angular with socket.io . It runs socket.io to communicate with the angular client.
 
